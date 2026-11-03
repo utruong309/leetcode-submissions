@@ -7,22 +7,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/utruong309/leetcode-submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/utruong309/leetcode-submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 ## String
 |  |
 | ------- |
@@ -103,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
