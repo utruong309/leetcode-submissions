@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
@@ -83,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
