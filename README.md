@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/utruong309/leetcode-submissions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utruong309/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utruong309/leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/utruong309/leetcode-submissions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utruong309/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utruong309/leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
