@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/utruong309/leetcode-submissions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utruong309/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utruong309/leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
 | ------- |
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/utruong309/leetcode-submissions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utruong309/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utruong309/leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Greedy
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utruong309/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
