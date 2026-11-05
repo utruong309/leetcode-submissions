@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
 ## Breadth-First Search
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/utruong309/leetcode-submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/utruong309/leetcode-submissions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utruong309/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utruong309/leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Two Pointers
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+| [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 ## Data Stream
 |  |
@@ -137,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 ## Bellman–Ford Algorithm
 |  |
