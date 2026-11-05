@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/utruong309/leetcode-submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Graph Theory
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/utruong309/leetcode-submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 | [1396-design-underground-system](https://github.com/utruong309/leetcode-submissions/tree/master/1396-design-underground-system) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/utruong309/leetcode-submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
