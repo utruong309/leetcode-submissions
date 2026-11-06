@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 | [1396-design-underground-system](https://github.com/utruong309/leetcode-submissions/tree/master/1396-design-underground-system) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3829-design-ride-sharing-system](https://github.com/utruong309/leetcode-submissions/tree/master/3829-design-ride-sharing-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/utruong309/leetcode-submissions/tree/master/0460-lfu-cache) |
 | [1396-design-underground-system](https://github.com/utruong309/leetcode-submissions/tree/master/1396-design-underground-system) |
+| [3829-design-ride-sharing-system](https://github.com/utruong309/leetcode-submissions/tree/master/3829-design-ride-sharing-system) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+| [3829-design-ride-sharing-system](https://github.com/utruong309/leetcode-submissions/tree/master/3829-design-ride-sharing-system) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/utruong309/leetcode-submissions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+## Queue
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/utruong309/leetcode-submissions/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
