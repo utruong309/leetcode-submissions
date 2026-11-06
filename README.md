@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utruong309/leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 | [1396-design-underground-system](https://github.com/utruong309/leetcode-submissions/tree/master/1396-design-underground-system) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/utruong309/leetcode-submissions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utruong309/leetcode-submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Stack
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/utruong309/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
+## Sliding Window
+|  |
+| ------- |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/utruong309/leetcode-submissions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->
