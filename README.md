@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0526-beautiful-arrangement](https://github.com/utruong309/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/utruong309/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 ## Monotonic Stack
 |  |
@@ -197,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/utruong309/leetcode-submissions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/utruong309/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/utruong309/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/utruong309/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
