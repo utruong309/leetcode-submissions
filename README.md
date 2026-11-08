@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/utruong309/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0227-basic-calculator-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/utruong309/leetcode-submissions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/utruong309/leetcode-submissions/tree/master/0072-edit-distance) |
 | [0526-beautiful-arrangement](https://github.com/utruong309/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
