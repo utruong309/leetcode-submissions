@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/utruong309/leetcode-submissions/tree/master/0839-similar-string-groups) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/utruong309/leetcode-submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Graph Theory
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/utruong309/leetcode-submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/utruong309/leetcode-submissions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/utruong309/leetcode-submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -105,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
 | [0839-similar-string-groups](https://github.com/utruong309/leetcode-submissions/tree/master/0839-similar-string-groups) |
 | [1258-synonymous-sentences](https://github.com/utruong309/leetcode-submissions/tree/master/1258-synonymous-sentences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/utruong309/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
