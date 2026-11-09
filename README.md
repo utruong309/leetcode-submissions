@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
+| [1120-maximum-average-subtree](https://github.com/utruong309/leetcode-submissions/tree/master/1120-maximum-average-subtree) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/utruong309/leetcode-submissions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/utruong309/leetcode-submissions/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Breadth-First Search
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1120-maximum-average-subtree](https://github.com/utruong309/leetcode-submissions/tree/master/1120-maximum-average-subtree) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/utruong309/leetcode-submissions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Dynamic Programming
 |  |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/utruong309/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+## Binary Tree
+|  |
+| ------- |
+| [1120-maximum-average-subtree](https://github.com/utruong309/leetcode-submissions/tree/master/1120-maximum-average-subtree) |
 <!---LeetCode Topics End-->
