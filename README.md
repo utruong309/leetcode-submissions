@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
+| [0743-network-delay-time](https://github.com/utruong309/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/utruong309/leetcode-submissions/tree/master/0839-similar-string-groups) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
+| [0743-network-delay-time](https://github.com/utruong309/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/utruong309/leetcode-submissions/tree/master/0839-similar-string-groups) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/utruong309/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+| [0743-network-delay-time](https://github.com/utruong309/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/utruong309/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## 0-1 BFS
 |  |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/utruong309/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Math
 |  |
