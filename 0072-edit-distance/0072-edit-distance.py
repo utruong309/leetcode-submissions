@@ -1,26 +1,28 @@
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
-        n = len(word1)
-        m = len(word2)
+        m = len(word1)
+        n = len(word2)
 
-        dp = {} # min ops to convert word1[i:] -> word2[j:]
+        dp = {}
 
         def dfs(i, j): 
-            if i == n: 
-                return m - j 
+            if i == m: 
+                return n - j 
             
-            if j == m: 
-                return n - i 
+            if j == n: 
+                return m - i 
             
-            if (i, j) in dp: 
+            if (i, j) in dp:
                 return dp[(i, j)]
-                
-            if word1[i] == word2[j]: 
+            
+            if word1[i] == word2[j]:
                 dp[(i, j)] = dfs(i + 1, j + 1)
             else: 
-                res = min(dfs(i, j + 1), dfs(i + 1, j), dfs(i + 1, j + 1))
-                dp[(i, j)] = 1 + res 
-
+                insert = dfs(i, j + 1)
+                delete = dfs(i + 1, j)
+                replace = dfs(i + 1, j + 1)
+                dp[(i, j)] = 1 + min(insert, delete, replace)
+            
             return dp[(i, j)]
-        
+
         return dfs(0, 0)
