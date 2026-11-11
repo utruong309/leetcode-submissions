@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0631-design-excel-sum-formula](https://github.com/utruong309/leetcode-submissions/tree/master/0631-design-excel-sum-formula) |
 | [0743-network-delay-time](https://github.com/utruong309/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0631-design-excel-sum-formula](https://github.com/utruong309/leetcode-submissions/tree/master/0631-design-excel-sum-formula) |
 | [0802-find-eventual-safe-states](https://github.com/utruong309/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/utruong309/leetcode-submissions/tree/master/0851-loud-and-rich) |
 ## String
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/utruong309/leetcode-submissions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0631-design-excel-sum-formula](https://github.com/utruong309/leetcode-submissions/tree/master/0631-design-excel-sum-formula) |
 | [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
 | [0839-similar-string-groups](https://github.com/utruong309/leetcode-submissions/tree/master/0839-similar-string-groups) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/utruong309/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0526-beautiful-arrangement](https://github.com/utruong309/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
+| [0631-design-excel-sum-formula](https://github.com/utruong309/leetcode-submissions/tree/master/0631-design-excel-sum-formula) |
 | [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
 | [0839-similar-string-groups](https://github.com/utruong309/leetcode-submissions/tree/master/0839-similar-string-groups) |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0631-design-excel-sum-formula](https://github.com/utruong309/leetcode-submissions/tree/master/0631-design-excel-sum-formula) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/utruong309/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/utruong309/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/utruong309/leetcode-submissions/tree/master/0460-lfu-cache) |
+| [0631-design-excel-sum-formula](https://github.com/utruong309/leetcode-submissions/tree/master/0631-design-excel-sum-formula) |
 | [0721-accounts-merge](https://github.com/utruong309/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0737-sentence-similarity-ii](https://github.com/utruong309/leetcode-submissions/tree/master/0737-sentence-similarity-ii) |
 | [0839-similar-string-groups](https://github.com/utruong309/leetcode-submissions/tree/master/0839-similar-string-groups) |
@@ -159,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/utruong309/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/utruong309/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/utruong309/leetcode-submissions/tree/master/0460-lfu-cache) |
+| [0631-design-excel-sum-formula](https://github.com/utruong309/leetcode-submissions/tree/master/0631-design-excel-sum-formula) |
 | [0981-time-based-key-value-store](https://github.com/utruong309/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/utruong309/leetcode-submissions/tree/master/1396-design-underground-system) |
 | [3829-design-ride-sharing-system](https://github.com/utruong309/leetcode-submissions/tree/master/3829-design-ride-sharing-system) |
